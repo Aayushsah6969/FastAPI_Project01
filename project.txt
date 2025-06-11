@@ -1,1 +1,3 @@
-This is fastAPI python project
+This is fastAPI python project. 
+
+mongodb+srv://aayushsah269:0RbjxUrprp3T342S@cluster0.it7to2e.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
